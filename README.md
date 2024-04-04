@@ -1,9 +1,5 @@
 # tess-reproducible-transportable-code
 
-<!-- badges: start -->
-![tess-badge](inst/tess-lab-teaching-resources.svg)
-<!-- badges: end -->
-
 This repo provides a simple example of how to set up a project to make it easier for others (or yourself!) to run your code on other devices, on operating systems and in future. This is especially important and helpful if you use GitHub or other version control systems, but is valuable even if you currently keep all your code on one machine.
 
 The key components are:
